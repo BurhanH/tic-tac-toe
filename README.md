@@ -14,7 +14,7 @@ Tic Tac Toe game. Combination of HTML, JavaScript, and CSS. ( + bootstrapcdn 4.3
 3) Double-click on any square will add 'O' into a square. <br>
 4) Triple-click on any square will make a square empty. <br>
 
-# How to it looks like
+# How it looks like
 
 ![Start page](https://github.com/BurhanH/tic-tac-toe/raw/master/sample_one.png "Start page") <br>
 
