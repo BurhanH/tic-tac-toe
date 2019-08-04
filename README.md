@@ -1,5 +1,5 @@
 # tic-tac-toe
-Tic Tac Toe game. Combination of HTML, JavaScript, and CSS. ( + bootstrapcdn 4.3.2)
+Tic Tac Toe the game. Combination of HTML, JavaScript, and CSS. ( + bootstrapcdn 4.3.2)
 
 # How to install/dowload
 
